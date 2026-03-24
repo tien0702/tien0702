@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Tên của bạn] 👋
 
-<!--
-**tien0702/tien0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Unity Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Tên dự án hiện tại]**
+- 🌱 I’m currently learning **Advanced Shaders & Odin Inspector**
+- 💬 Ask me about **Unity, C#, or Mobile Development**
+- 📫 How to reach me: **[Email của bạn]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
