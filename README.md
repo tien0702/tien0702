@@ -2,10 +2,10 @@
 
 ### 🚀 Software Engineer | Unity Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on **[Tên dự án hiện tại]**
-- 🌱 I’m currently learning **Advanced Shaders & Odin Inspector**
-- 💬 Ask me about **Unity, C#, or Mobile Development**
-- 📫 How to reach me: **[Email của bạn]**
+//- 🔭 I’m currently working on **[Tên dự án hiện tại]**
+//- 🌱 I’m currently learning **Advanced Shaders & Odin Inspector**
+//- 💬 Ask me about **Unity, C#, or Mobile Development**
+- 📫 How to reach me: tientv.0702@gmail.com
 
 ---
 
