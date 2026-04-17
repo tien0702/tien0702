@@ -1,12 +1,103 @@
-# Hi there, I'm Tiến 👋
+# 👋 Hi, I'm [Your Name]
 
-### 🚀 Software Engineer | Unity Developer | Tech Enthusiast
-
-- 📫 How to reach me: tientv.0702@gmail.com
+🎮 Unity Game Developer | Gameplay Systems | Tooling | Data-driven Design
 
 ---
 
-### 🛠 Tech Stack
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+## 🚀 About Me
+
+I build **scalable gameplay systems** and **reusable Unity packages**
+to speed up game development and improve iteration quality.
+
+<!-- * 🔧 Focus: Gameplay Architecture, Tools, Systems
+* 📊 Interested in: Player Behavior & Analytics
+* ⚡ Goal: Build fast, scalable, production-ready systems -->
+
+---
+
+## 🔥 Featured Projects
+
+### 🧱 Core System
+
+`State: Planned`
+> A modular Unity framework for scalable game development
+
+
+* Design Pattern: Event Bus, Singleton, Object Pool
+* Helper: Utils, Extend
+
+<!-- 👉 [View Repository](#) -->
+
+---
+
+### 📊 Analytics System
+
+`State: Planned`
+> Track player behavior & optimize gameplay decisions
+
+<!-- 👉 [View Repository](#) -->
+---
+
+### 📊 Save/Load System
+
+`State: Planned`
+> Ease to save/load system
+
+---
+
+### 🛠 Unity Editor Tool
+
+`State: Planned`
+> Custom tools to speed up development workflow
+
+* Level editor / Inspector tools
+* Bulk operations
+
+👉 [View Repository](#)
+
+---
+
+### 🎮 Casual Game (Showcase)
+
+> A polished mobile-ready casual game
+
+* Complete gameplay loop
+* Integrated analytics system
+
+👉 [Watch Demo](#)
+
+---
+
+### 🧪 Experimental Project
+
+> Exploring new gameplay mechanics
+
+* Procedural / unique mechanics
+* Rapid prototyping
+
+👉 [View Repository](#)
+
+---
+
+## 🧩 Tech Stack
+
+* Unity (C#)
+* ScriptableObject Architecture
+* OOP / Design Patterns
+* JSON / Data-driven systems
+
+---
+
+## 📈 What I Bring
+
+✔ Build reusable systems instead of one-off code
+✔ Strong focus on scalability & maintainability
+✔ Combine gameplay + data for better decisions
+
+---
+
+## 📬 Contact
+
+* Email: [tientv.0702@gmail.com](mailto:your@email.com)
+
+---
