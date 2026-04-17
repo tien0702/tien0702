@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Trần Tiến [NIX]
 
 🎮 Unity Game Developer | Gameplay Systems | Tooling | Data-driven Design
 
@@ -81,11 +81,6 @@ to speed up game development and improve iteration quality.
 
 ## 🧩 Tech Stack
 
-* Unity (C#)
-* ScriptableObject Architecture
-* OOP / Design Patterns
-* JSON / Data-driven systems
-
 ---
 
 ## 📈 What I Bring
@@ -98,6 +93,6 @@ to speed up game development and improve iteration quality.
 
 ## 📬 Contact
 
-* Email: [tientv.0702@gmail.com](mailto:your@email.com)
+* Email: [tientv.0702@gmail.com](mailto:tientv.0702@gmail.com)
 
 ---
